@@ -1,0 +1,5 @@
+# PyTorch 请按自己的显卡装带 CUDA 的版本,见 https://pytorch.org/get-started/locally/
+torch>=2.7
+numpy
+tokenizers>=0.20
+pytest
